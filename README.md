@@ -26,4 +26,4 @@
   
   ##
   
-  ![DO_or_no_Do](https://github.com/RodrigoOBC/API_star_wars_nodjs/blob/master/static/imagens/Mestre_yoda.gif)
+![Snake animation](https://github.com/lougansjs/lougansjs/blob/output/github-contribution-grid-snake.svg)
