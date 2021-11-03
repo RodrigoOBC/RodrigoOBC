@@ -9,7 +9,7 @@
 - 🤖 Entusiastas em assuntos de IA
 
 <div align="center">
-  <a href="https://github.com/engenny">
+  <a href="https://github.com/RodrigoOBC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoOBC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoOBC&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
