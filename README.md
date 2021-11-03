@@ -1,13 +1,12 @@
 <h4 align="center">
  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![Matrix_gif](HatefulSeveralIbis-max-1mb.gif)
 
-### Olá! eu sou a Bia mais conhecida como engenny! 👋
+### Olá! eu sou a Rodrigo Cabral! 😎😎
 
-- 🔭 Estagiária de Frontend
-- 🌱 Estudando flutter/Vue.js
-- 🎨 Pintora/Desenhista há 12 anos
-- 🏹 Futura desenvolvedora frontend UI/UX Pleno. 
+- 👨‍💻 Analista de Qualidade de software
+- 👨‍🎓 Pós-graduando em Ciência de Dados e BigData
+- 🤖 Entusiastas em assuntos de IA
 
 <div align="center">
   <a href="https://github.com/engenny">
