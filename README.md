@@ -1,6 +1,9 @@
 <h4 align="center">
  
-![Matrix_gif](HatefulSeveralIbis-max-1mb.gif)
+<h1 align="center" >Hey guys, what's up?  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ### Olá! eu sou a Rodrigo Cabral! 😎😎
 
@@ -14,19 +17,32 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoOBC&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cabral-Js" height="30" width="80" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
- <img align="center" alt="Cabral-node" height="60" width="80" src="https://img.icons8.com/color/48/000000/nodejs.png">
- <img align="center" alt="Cabral-Python" height="50" width="80" src="https://img.icons8.com/color/48/000000/python.png">
- <img align="center" alt="Cabral-Flask" height="30" width="80" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="Cabral-TnsorFlow" height="50" width="80" src="https://img.icons8.com/color/48/000000/tensorflow.png">
- <img align="center" alt="Cabral-Keras" height="30" width="80" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
- <img align="center" alt="Cabral-Selenium" height="50" width="70" src="https://img.icons8.com/color/48/000000/selenium.png">
- <img align="center" alt="Cabral-Cypress" height="30" width="80" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
-  <img align="center" alt="Cabral-git" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Cabral-postgresql" height="50" width="80" src="https://img.icons8.com/color/48/000000/postgreesql.png">
-  <img align="center" alt="Cabral-mysql" height="50" width="80" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
- <img align="center" alt="Cabral-mongo" height="50" width="80" src="https://img.icons8.com/color/48/000000/mongodb.png">
+<div align="center">
+
+
+  <img align="center" alt="python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="TensorFlow" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+
+  <img align="center" alt="TensorFlow" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+
+  <img align="center" alt="git" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="center" alt="bia-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="nodejs" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
+
+<img align="center" alt="mongo" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+
+<img align="center" alt="azure" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+
+<img align="center" alt="postgres" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
+
+<img align="center" alt="microsoftsqlserver" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+
+<img align="center" alt="linux" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
 
 
 </div>
