@@ -7,9 +7,9 @@
 
 ### Olá! eu sou a Rodrigo Cabral! 😎😎
 
-- 👨‍💻 Analista de Qualidade de software
-- 👨‍🎓 Pós-graduando em Ciência de Dados e BigData
-- 🤖 Entusiastas em assuntos de IA
+- 👨‍💻 Software QA Analyst
+- 👨‍🎓 Graduate Course Data Science and BigData
+- 🤖 AI Enthusiasts
 
 <div align="center">
   <a href="https://github.com/RodrigoOBC">
