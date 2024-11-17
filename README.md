@@ -19,8 +19,13 @@
   
 <div align="center">
 
+<img align="center" alt="playwright" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
 
   <img align="center" alt="python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="bia-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="nodejs" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
 
   <img align="center" alt="TensorFlow" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
 
@@ -28,15 +33,14 @@
 
   <img align="center" alt="git" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="center" alt="bia-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-<img align="center" alt="nodejs" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
 
 <img align="center" alt="mongo" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 
 <img align="center" alt="azure" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 
 <img align="center" alt="postgres" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
 
 
 <img align="center" alt="microsoftsqlserver" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
